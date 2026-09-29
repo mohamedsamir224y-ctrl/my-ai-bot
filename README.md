@@ -1,40 +1,18 @@
 <!DOCTYPE html>
-<html lang="ar" dir="rtl">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Space AI</title>
+</head>
 
-  <title>Space AI 🚀</title>
+<body>
 
-  <style>
-    * {
-      box-sizing: border-box;
-      font-family: Arial, sans-serif;
-    }
+<h1>🚀 Space AI</h1>
 
-    body {
-      margin: 0;
-      background: #050816;
-      color: white;
-      min-height: 100vh;
-    }
+<p>أهلاً بيك في بوت الفضاء 🌌</p>
 
-    header {
-      text-align: center;
-      padding: 30px 15px 15px;
-    }
+<button onclick="alert('البوت شغال 🚀')">
+  اضغط هنا
+</button>
 
-    header h1 {
-      margin: 0;
-      font-size: 32px;
-    }
-
-    header p {
-      color: #aaa;
-      font-size: 16px;
-    }
-
-    #chat {
-      height: calc(100vh - 190px);
-      overflow-y: auto;
-      padding:
+</body>
+</html>
